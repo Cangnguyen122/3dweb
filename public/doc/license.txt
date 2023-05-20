@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grogu Pull Animation
+* source:	https://sketchfab.com/3d-models/grogu-pull-animation-9ceedcc4c9d54e3898dc9fe98c9b5a40
+* author:	Marc Palma (https://sketchfab.com/marcpt00)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grogu Pull Animation" (https://sketchfab.com/3d-models/grogu-pull-animation-9ceedcc4c9d54e3898dc9fe98c9b5a40) by Marc Palma (https://sketchfab.com/marcpt00) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
